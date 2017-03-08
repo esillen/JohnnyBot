@@ -1,0 +1,4 @@
+*.csv
+*.txt
+transcriptparser/*.csv
+transcriptparser/*.txt
